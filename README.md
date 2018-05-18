@@ -16,6 +16,10 @@ A super lightweight Jekyll website boilerplate to allow for fast static website 
 
 ## Getting Started
 
+1. Follow the setup for Jekyll [here](https://jekyllrb.com/docs/quickstart/)
+
+## Starting Your Website
+
 1. Configure `_config.yml` with your website's information
 
 2. Run `bundle exec jekyll serve` to serve the website locally at port `4000`
